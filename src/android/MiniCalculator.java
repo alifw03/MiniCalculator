@@ -1,4 +1,4 @@
-package cordova-plugin-minicalculator;
+package cordova.plugin.minicalculator;
 
 import org.apache.cordova.CordovaPlugin;
 import org.apache.cordova.CallbackContext;
