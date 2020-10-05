@@ -1,0 +1,17 @@
+{
+  "name": "minicalculator",
+  "version": "1.0.0",
+  "description": "This is mini calculator example using cordova plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Math",
+    "Calculator",
+    "Cordova",
+    "Ionic"
+  ],
+  "author": "Hashtag Services",
+  "license": "ISC"
+}
