@@ -5,6 +5,8 @@ exports.coolMethod = function (arg0, success, error) {
 };
 
 module.exports.add = function(arg0, success, error) {
+    console.log(error);
+    console.log(arg0);
     exec(success, error, 'MiniCalculator', 'add', [arg0]);
 };
 

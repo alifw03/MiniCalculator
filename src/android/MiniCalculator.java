@@ -19,6 +19,7 @@ public class MiniCalculator extends CordovaPlugin {
             this.coolMethod(message, callbackContext);
             return true;
         }else if(action.equals("add")) {
+            System.out.println("I m in java file add function.");
             this.add(args, callbackContext);
             return true;
         } else if(action.equals("substract")) {
